@@ -23,7 +23,7 @@ It provides an intuitive interface to **add, reorder, complete, and delete tasks
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](https://github.com/osama25s/task_manager_task/blob/master/assets/demo.mp4)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/144F4ZQiYvqXaK50Ql-NlpZa-Lm1zjTEn/view?usp=drive_link)
 
 
 

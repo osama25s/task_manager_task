@@ -1,16 +1,45 @@
-# task_manager_task
+# 📝 Task Manager App
 
-A new Flutter project.
+A simple yet powerful **Flutter Task Manager** application that helps you stay organized.  
+It provides an intuitive interface to **add, reorder, complete, and delete tasks** seamlessly.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Task Completion**  
+  Mark tasks as completed with a checkbox (adds strikethrough style).  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔄 **Reorder by Drag & Drop**  
+  Easily reorder your tasks to prioritize important ones.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🗑️ **Swipe to Delete**  
+  Swipe left/right to delete a task with **confirmation** and **undo option**.  
+
+- 🎨 **Modern UI Design**  
+  Clean and user-friendly interface with smooth animations.  
+
+---
+
+## 🎥 Demo
+
+[▶️ Watch Demo Video](assets/demo.mp4)
+
+*(Video is located inside the `assets/` folder — click to watch)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: Flutter (Dart)  
+- **State Management**: `StatefulWidget` for simplicity  
+- **Widgets Used**:  
+  - `ReorderableListView` for drag & drop  
+  - `Dismissible` for swipe-to-delete  
+  - `CheckboxListTile` for task completion  
+
+
+---
+
+## 📂 Folder Structure
+

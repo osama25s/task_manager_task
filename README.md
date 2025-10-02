@@ -23,7 +23,7 @@ It provides an intuitive interface to **add, reorder, complete, and delete tasks
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](https://drive.google.com/file/d/144F4ZQiYvqXaK50Ql-NlpZa-Lm1zjTEn/view?usp=drive_link)
+[▶️ Watch Demo Video](https://github.com/user-attachments/assets/ef48c6cf-702f-4fba-932a-42af040b4ebb)
 
 
 ---

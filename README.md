@@ -43,5 +43,4 @@ It provides an intuitive interface to **add, reorder, complete, and delete tasks
 
 ---
 
-## 📂 Folder Structure
 

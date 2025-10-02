@@ -26,9 +26,6 @@ It provides an intuitive interface to **add, reorder, complete, and delete tasks
 [▶️ Watch Demo Video](https://drive.google.com/file/d/144F4ZQiYvqXaK50Ql-NlpZa-Lm1zjTEn/view?usp=drive_link)
 
 
-
-*(Video is located inside the `assets/` folder — click to watch)*
-
 ---
 
 ## 🛠️ Tech Stack
